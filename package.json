@@ -29,7 +29,7 @@
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.2",
     "typescript": "^5.4.2",
-    "typescript-eslint": "^7.3.1"
+    "typescript-eslint": "^8.22.0"
   },
   "dependencies": {
     "abitype": "^1.0.0",
